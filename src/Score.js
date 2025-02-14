@@ -14,3 +14,5 @@ function calculateScore() {
     });
 }
 export { calculateScore };
+
+// Done
